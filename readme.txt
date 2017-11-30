@@ -1,1 +1,2 @@
-这是测试Git功能的文本
+Git is a distributed version control system.
+Git is free software.
