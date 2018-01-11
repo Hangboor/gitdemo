@@ -1,7 +1,4 @@
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
-<<<<<<< HEAD
 这是在分支下添加的
-=======
-这是在分支下添加的
->>>>>>> featurel
+这是新添加的内容
